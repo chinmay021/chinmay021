@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Streamy](https://github.com/chinmay021/Streamy)
 
-- 🌱 I’m currently learning **React Js, Next Js, TypeScript**
+- 🌱 I’m currently learning **JavaScript, React Js and then move on to  Next Js, TypeScript**
 
 - 📫 How to reach me **chinmaykumar021@gmail.com**
 
