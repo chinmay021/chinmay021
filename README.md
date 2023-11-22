@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay021&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay021" /> </p>
 
-- 🔭 I’m currently working on [Streamy](https://github.com/chinmay021/Streamy)
+- 🔭 Portfolio - https://chinmaykumar.vercel.app/
 
 - 🌱 I’m currently learning **JavaScript, React Js and then move on to  Next Js, TypeScript**
 
